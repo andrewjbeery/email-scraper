@@ -1,0 +1,745 @@
+[
+    {
+        "name": "Hannacks Home Services",
+        "yelp_url": "https://www.yelp.com/biz/hannacks-home-services-fitchburg?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Fitchburg",
+        "phone": "+16084009345",
+        "website": "hannackshomeservices.com",
+        "email": [
+            "hannackhs@gmail.com"
+        ]
+    },
+    {
+        "name": "Degnan Design-Build-Remodel",
+        "yelp_url": "https://www.yelp.com/biz/degnan-design-build-remodel-deforest-3?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "DeForest",
+        "phone": "+16088465963",
+        "website": "degnandesignbuildremodel.com",
+        "email": [
+            "Contact-Us@DegnanDesignBuildRemodel.com"
+        ]
+    },
+    {
+        "name": "Time 2 Remodel",
+        "yelp_url": "https://www.yelp.com/biz/time-2-remodel-madison-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082120633",
+        "website": "time2remodel.com",
+        "email": [
+            "curt@time2remodel.com"
+        ]
+    },
+    {
+        "name": "Capital Custom Contractors",
+        "yelp_url": "https://www.yelp.com/biz/capital-custom-contractors-monona-3?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Monona",
+        "phone": "+16084710494",
+        "website": "capitalcustomcontractors.com",
+        "email": [
+            "Capitalcustomcontractors@gmail.com"
+        ]
+    },
+    {
+        "name": "Birrenkott Construction and Maintenance",
+        "yelp_url": "https://www.yelp.com/biz/birrenkott-construction-and-maintenance-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16084417877",
+        "website": "birrenkott.com",
+        "email": [
+            "russ@birrenkott.com"
+        ]
+    },
+    {
+        "name": "Warden & Sons",
+        "yelp_url": "https://www.yelp.com/biz/warden-and-sons-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082740980",
+        "website": "wardenandsons.com",
+        "email": [
+            "wardenandsons@gmail.com"
+        ]
+    },
+    {
+        "name": "Frank's Construction",
+        "yelp_url": "https://www.yelp.com/biz/franks-construction-sun-prairie?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Sun Prairie",
+        "phone": "+16085157602",
+        "website": "franksconstructionllc.net",
+        "email": [
+            "contact@franksconstructionllc.net"
+        ]
+    },
+    {
+        "name": "Christensen Construction",
+        "yelp_url": "https://www.yelp.com/biz/christensen-construction-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082528406",
+        "website": "christensenconstruction.net",
+        "email": [
+            "matt@christensenconstruction.net"
+        ]
+    },
+    {
+        "name": "Hareplastering and Drywall",
+        "yelp_url": "https://www.yelp.com/biz/hareplastering-and-drywall-sun-prairie?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Sun Prairie",
+        "phone": "+16083327408",
+        "website": "hareplastering.com",
+        "email": [
+            "hareplastering@gmail.com"
+        ]
+    },
+    {
+        "name": "Scott Brothers Remodeling",
+        "yelp_url": "https://www.yelp.com/biz/scott-brothers-remodeling-marshall?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Marshall",
+        "phone": "+16082288024",
+        "website": "scottbrothersremodeling.com",
+        "email": [
+            "info@scottbrothersremodeling.com"
+        ]
+    },
+    {
+        "name": "Artisan Remodeling",
+        "yelp_url": "https://www.yelp.com/biz/artisan-remodeling-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16084697276",
+        "website": "artisanremod.com",
+        "email": [
+            "info@artisanremod.com"
+        ]
+    },
+    {
+        "name": "Barlow Builders, Inc.",
+        "yelp_url": "https://www.yelp.com/biz/barlow-builders-inc-madison-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082443440",
+        "website": "barlowbuildersinc.com",
+        "email": [
+            "barlowbldrs@gmail.com"
+        ]
+    },
+    {
+        "name": "Hodson Construction",
+        "yelp_url": "https://www.yelp.com/biz/hodson-construction-middleton?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Middleton",
+        "phone": "+16083451098",
+        "website": "hodsonconstruction.com",
+        "email": [
+            "chip@hodsonconstruction.com"
+        ]
+    },
+    {
+        "name": "Dahlia Design Remodel",
+        "yelp_url": "https://www.yelp.com/biz/dahlia-design-remodel-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16084458318",
+        "website": "dahliadesignremodel.com",
+        "email": [
+            "info@dahliadesignremodel.com"
+        ]
+    },
+    {
+        "name": "Construction & Design Services",
+        "yelp_url": "https://www.yelp.com/biz/construction-and-design-services-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16086690132",
+        "website": "constructiondesign.biz",
+        "email": [
+            "peter@constructiondesign.biz"
+        ]
+    },
+    {
+        "name": "Premier Builders",
+        "yelp_url": "https://www.yelp.com/biz/premier-builders-waunakee?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waunakee",
+        "phone": "+16088496770",
+        "website": "premierbuildersinc.com",
+        "email": [
+            "Info@PremierBuildersInc.com"
+        ]
+    },
+    {
+        "name": "Heartland Building & Design",
+        "yelp_url": "https://www.yelp.com/biz/heartland-building-and-design-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082839015",
+        "website": "heartlandbd.com",
+        "email": [
+            "meg@heartlandbd.com"
+        ]
+    },
+    {
+        "name": "Genesis Exterior",
+        "yelp_url": "https://www.yelp.com/biz/genesis-exteriors-madison-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082049999",
+        "website": "genesisexteriors.com",
+        "email": [
+            "staff@genesisexteriors.net"
+        ]
+    },
+    {
+        "name": "Kitchen and Bath Solutions",
+        "yelp_url": "https://www.yelp.com/biz/kitchen-and-bath-solutions-madison-4?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16088248622",
+        "website": "wikbsolutions.com",
+        "email": [
+            "sales@wikbsolutions.com"
+        ]
+    },
+    {
+        "name": "Luxe Haus Design",
+        "yelp_url": "https://www.yelp.com/biz/luxe-haus-design-waunakee?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waunakee",
+        "phone": "",
+        "website": "luxehausdesign.com",
+        "email": [
+            "meghan@luxehausdesign.com"
+        ]
+    },
+    {
+        "name": "Clear Choice Construction",
+        "yelp_url": "https://www.yelp.com/biz/clear-choice-construction-juneau?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Juneau",
+        "phone": "+19207632147",
+        "website": "wiremodeling.com",
+        "email": [
+            "Jmlsna@WIremodeling.com"
+        ]
+    },
+    {
+        "name": "4 Lakes Plumbing",
+        "yelp_url": "https://www.yelp.com/biz/4-lakes-plumbing-madison-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082415184",
+        "website": "fourlakesplumbing.com",
+        "email": [
+            "steve@4lakesplumbing.com"
+        ]
+    },
+    {
+        "name": "Sampler Square The Home Centre",
+        "yelp_url": "https://www.yelp.com/biz/sampler-square-the-home-centre-middleton?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Middleton",
+        "phone": "+16088316061",
+        "website": "samplersquare.com",
+        "email": [
+            "showroom@samplersquare.com"
+        ]
+    },
+    {
+        "name": "SK Construction",
+        "yelp_url": "https://www.yelp.com/biz/sk-construction-lone-rock?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Lone Rock",
+        "phone": "+16084258082",
+        "website": "skconstructionwi.com",
+        "email": [
+            "skconstructionwi@yahoo.com"
+        ]
+    },
+    {
+        "name": "Eco Friendly Flooring",
+        "yelp_url": "https://www.yelp.com/biz/eco-friendly-flooring-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16084413265",
+        "website": "ecofriendlyflooring.com",
+        "email": [
+            "ecofriendlyfloor2@gmail.com"
+        ]
+    },
+    {
+        "name": "Midwest Solar Power",
+        "yelp_url": "https://www.yelp.com/biz/midwest-solar-power-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16083542063",
+        "website": "mwsolarpower.com",
+        "email": [
+            "adam@mwsolarpower.com"
+        ]
+    },
+    {
+        "name": "Monson Construction",
+        "yelp_url": "https://www.yelp.com/biz/monson-construction-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16088331127",
+        "website": "monsonbuilders.com",
+        "email": [
+            "kam@monsonbuilders.com"
+        ]
+    },
+    {
+        "name": "Classic Custom Homes of Waunakee",
+        "yelp_url": "https://www.yelp.com/biz/classic-custom-homes-of-waunakee-waunakee?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waunakee",
+        "phone": "+16088504450",
+        "website": "cchofwaunakee.com",
+        "email": [
+            "bryan@cchofwaunakee.com"
+        ]
+    },
+    {
+        "name": "Midwest Roofing & Construction",
+        "yelp_url": "https://www.yelp.com/biz/midwest-roofing-and-construction-dodgeville-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Dodgeville",
+        "phone": "+18005518251",
+        "website": "midwestroofingpros.com",
+        "email": [
+            "contact@midwestroofingpros.com"
+        ]
+    },
+    {
+        "name": "Briggs Family Home Development",
+        "yelp_url": "https://www.yelp.com/biz/briggs-family-home-development-oregon?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Oregon",
+        "phone": "+18663010155",
+        "website": "briggsfamilyhd.com",
+        "email": [
+            "CustomerCare@briggsfamilyhd.com"
+        ]
+    },
+    {
+        "name": "Richards Construction Building & Design",
+        "yelp_url": "https://www.yelp.com/biz/richards-construction-building-and-design-janesville?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Janesville",
+        "phone": "+16087529551",
+        "website": "richardsconstruction.net",
+        "email": [
+            "info@richardsconstruction.net"
+        ]
+    },
+    {
+        "name": "New Heights Property Maintenance & Home Repair",
+        "yelp_url": "https://www.yelp.com/biz/new-heights-property-maintenance-and-home-repair-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16083954000",
+        "website": "newheightsmadison.com",
+        "email": [
+            "info@newheightsmadison.com"
+        ]
+    },
+    {
+        "name": "Dave's Plumbing And Repair",
+        "yelp_url": "https://www.yelp.com/biz/daves-plumbing-and-repair-edgerton?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Edgerton",
+        "phone": "+16082196193",
+        "website": "davesplumbingandrepairwi.com",
+        "email": [
+            "plumber9867@yahoo.com"
+        ]
+    },
+    {
+        "name": "Hooper",
+        "yelp_url": "https://www.yelp.com/biz/hooper-deforest?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "DeForest",
+        "phone": "+16082490451",
+        "website": "hoopercorp.com",
+        "email": [
+            "DOT@hoopercorp.com"
+        ]
+    },
+    {
+        "name": "Bee's Knees Craftsman",
+        "yelp_url": "https://www.yelp.com/biz/bees-knees-craftsman-lodi-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Lodi",
+        "phone": "+16085920628",
+        "website": "beeskneesgroup.com",
+        "email": [
+            "request@beeskneesgroup.com"
+        ]
+    },
+    {
+        "name": "Four Lakes Paving",
+        "yelp_url": "https://www.yelp.com/biz/four-lakes-paving-madison-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082418825",
+        "website": "fourlakespaving.net",
+        "email": [
+            "chalo.herrera@fourlakespaving.net"
+        ]
+    },
+    {
+        "name": "Brookens Construction",
+        "yelp_url": "https://www.yelp.com/biz/brookens-construction-windsor?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Windsor",
+        "phone": "+19207944611",
+        "website": "brookens.com",
+        "email": [
+            "sales@brookens.com"
+        ]
+    },
+    {
+        "name": "Isthmus Electric",
+        "yelp_url": "https://www.yelp.com/biz/isthmus-electric-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082058030",
+        "website": "isthmuselectric.com",
+        "email": [
+            "info@isthmuselectric.com"
+        ]
+    },
+    {
+        "name": "Stone Concepts",
+        "yelp_url": "https://www.yelp.com/biz/stone-concepts-middleton-3?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Middleton",
+        "phone": "+16088201111",
+        "website": "stoneconceptscorp.com",
+        "email": [
+            "sales@stoneconceptscorp.com"
+        ]
+    },
+    {
+        "name": "Badger GraniteWerks",
+        "yelp_url": "https://www.yelp.com/biz/badger-granitewerks-verona-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Verona",
+        "phone": "+16088489600",
+        "website": "badgergranitewerksinc.com",
+        "email": [
+            "info@bgwinc.net"
+        ]
+    },
+    {
+        "name": "Doug's Handyman Service",
+        "yelp_url": "https://www.yelp.com/biz/dougs-handyman-service-verona-14?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Verona",
+        "phone": "+16088458110",
+        "website": "dougshandymanserviceinc.com",
+        "email": [
+            "dougshandymanserviceinc@gmail.com"
+        ]
+    },
+    {
+        "name": "Janesville Plumbling",
+        "yelp_url": "https://www.yelp.com/biz/janesville-plumbling-janesville-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Janesville",
+        "phone": "+16087547790",
+        "website": "janesvilleplumbing.net",
+        "email": [
+            "info@janesvilleplumbing.net"
+        ]
+    },
+    {
+        "name": "Hennick Remodeling and Repair",
+        "yelp_url": "https://www.yelp.com/biz/hennick-remodeling-and-repair-verona?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Verona",
+        "phone": "+16082164142",
+        "website": "hennickremodeling.com",
+        "email": [
+            "David@HennickRemodeling.com"
+        ]
+    },
+    {
+        "name": "The Granite Shop",
+        "yelp_url": "https://www.yelp.com/biz/the-granite-shop-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082241005",
+        "website": "thegraniteshopofmadison.com",
+        "email": [
+            "thegraniteshopofmadison@hotmail.com"
+        ]
+    },
+    {
+        "name": "Warren Heating & Air Conditioning",
+        "yelp_url": "https://www.yelp.com/biz/warren-heating-and-air-conditioning-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082562391",
+        "website": "warrenheating.com",
+        "email": [
+            "info@warrenheating.com",
+            "sales@warrenheating.com"
+        ]
+    },
+    {
+        "name": "Performance Exteriors & Contracting",
+        "yelp_url": "https://www.yelp.com/biz/performance-exteriors-and-contracting-stoughton-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Stoughton",
+        "phone": "+16083207007",
+        "website": "performanceext.com",
+        "email": [
+            "info@performanceext.com"
+        ]
+    },
+    {
+        "name": "Spa Pro",
+        "yelp_url": "https://www.yelp.com/biz/spa-pro-waunakee?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waunakee",
+        "phone": "+16087127728",
+        "website": "spaprollc.com",
+        "email": [
+            "spaprollc@yahoo.com"
+        ]
+    },
+    {
+        "name": "Miller Custom Homes Inc Ofc",
+        "yelp_url": "https://www.yelp.com/biz/miller-custom-homes-inc-ofc-sun-prairie?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Sun Prairie",
+        "phone": "+16088376076",
+        "website": "millercustomhomes.com",
+        "email": [
+            "mchabilene@gmail.com"
+        ]
+    },
+    {
+        "name": "Ganser Construction",
+        "yelp_url": "https://www.yelp.com/biz/ganser-construction-prairie-du-sac-4?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Prairie Du Sac",
+        "phone": "+16086434667",
+        "website": "ganserconstructioninc.com",
+        "email": [
+            "Ganser@GanserConstructionInc.com"
+        ]
+    },
+    {
+        "name": "Connell Construction",
+        "yelp_url": "https://www.yelp.com/biz/connell-construction-janesville-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Janesville",
+        "phone": "+16082958863",
+        "website": "connellconstructionllc.com",
+        "email": [
+            "connellconstruction.llc@gmail.com"
+        ]
+    },
+    {
+        "name": "Nelson Electric",
+        "yelp_url": "https://www.yelp.com/biz/nelson-electric-cross-plains?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Cross Plains",
+        "phone": "+16087984847",
+        "website": "nelsonelectricllc.net",
+        "email": [
+            "nelson@nelsonelectricllc.net"
+        ]
+    },
+    {
+        "name": "Rampart Xtreme Building Concepts",
+        "yelp_url": "https://www.yelp.com/biz/rampart-xtreme-building-concepts-stoughton?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Stoughton",
+        "phone": "+16082052670",
+        "website": "rampartxtreme.com",
+        "email": [
+            "Info@rampartxtreme.com"
+        ]
+    },
+    {
+        "name": "EZegress Windows",
+        "yelp_url": "https://www.yelp.com/biz/ezegress-windows-lake-geneva-3?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Lake Geneva",
+        "phone": "+12626612838",
+        "website": "ezegresswindows.com",
+        "email": [
+            "Admin@ezegresswindows.com"
+        ]
+    },
+    {
+        "name": "Lake City Concrete Designs",
+        "yelp_url": "https://www.yelp.com/biz/lake-city-concrete-designs-cottage-grove?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Cottage Grove",
+        "phone": "+16082066651",
+        "website": "lakecityconcrete.com",
+        "email": [
+            "lakecityconcrete@gmail.com"
+        ]
+    },
+    {
+        "name": "Top Hat",
+        "yelp_url": "https://www.yelp.com/biz/top-hat-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082047585",
+        "website": "tophat-pro.com",
+        "email": [
+            "help.tophat@gmail.com"
+        ]
+    },
+    {
+        "name": "Rockford Refinishing",
+        "yelp_url": "https://www.yelp.com/biz/rockford-refinishing-rockford?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Rockford",
+        "phone": "+18155195679",
+        "website": "rockfordrefinishingil.com",
+        "email": [
+            "schultzandsonsservices@gmail.com"
+        ]
+    },
+    {
+        "name": "The Neatist",
+        "yelp_url": "https://www.yelp.com/biz/the-neatist-durham?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Durham",
+        "phone": "+12026809000",
+        "website": "theneatist.com",
+        "email": [
+            "theneatist@gmail.com"
+        ]
+    },
+    {
+        "name": "Wisconsin Foundation Specialists",
+        "yelp_url": "https://www.yelp.com/biz/wisconsin-foundation-specialists-waukesha?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waukesha",
+        "phone": "+12623274011",
+        "website": "wifoundations.com",
+        "email": [
+            "jon@wifoundations.com"
+        ]
+    },
+    {
+        "name": "Legacy Custom Remodeling",
+        "yelp_url": "https://www.yelp.com/biz/legacy-custom-remodeling-oregon-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Oregon",
+        "phone": "+16088351822",
+        "website": "legacycr.com",
+        "email": [
+            "Info@LegacyCR.com"
+        ]
+    },
+    {
+        "name": "JD Touch Countertops Oxford",
+        "yelp_url": "https://www.yelp.com/biz/jd-touch-countertops-oxford-westfield-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Westfield",
+        "phone": "+16085168008",
+        "website": "jdtouchcountertops.com",
+        "email": [
+            "touchcountertops@gmail.com"
+        ]
+    },
+    {
+        "name": "Mad City Moving",
+        "yelp_url": "https://www.yelp.com/biz/mad-city-moving-madison?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Madison",
+        "phone": "+16082749855",
+        "website": "madcitymoving.com",
+        "email": [
+            "info@madcitymoving.com"
+        ]
+    },
+    {
+        "name": "Giertsen Co of Wisconsin",
+        "yelp_url": "https://www.yelp.com/biz/giertsen-co-of-wisconsin-waukesha-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waukesha",
+        "phone": "+12625221918",
+        "website": "giertsenco.com",
+        "email": [
+            "kmg@giertsenco.com",
+            "johnm@giertsenco.com",
+            "rickjr@giertsenco.com"
+        ]
+    },
+    {
+        "name": "Feiner Construction",
+        "yelp_url": "https://www.yelp.com/biz/feiner-construction-spring-green-4?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Spring Green",
+        "phone": "+16085883801",
+        "website": "feinerconstruction.com",
+        "email": [
+            "info@feinerconstruction.com"
+        ]
+    },
+    {
+        "name": "Kari's Interiors",
+        "yelp_url": "https://www.yelp.com/biz/karis-interiors-lodi-5?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Lodi",
+        "phone": "+16085760988",
+        "website": "karisinteriors.com",
+        "email": [
+            "karisinteriors@gmail.com"
+        ]
+    },
+    {
+        "name": "Bath King",
+        "yelp_url": "https://www.yelp.com/biz/bath-king-orfordville?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Orfordville",
+        "phone": "+16082952329",
+        "website": "bathkingwi.com",
+        "email": [
+            "Schuh_Travis@yahoo.com"
+        ]
+    },
+    {
+        "name": "Granite Plus",
+        "yelp_url": "https://www.yelp.com/biz/granite-plus-new-berlin?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "New Berlin",
+        "phone": "+12626417587",
+        "website": "graniteplususa.com",
+        "email": [
+            "info@graniteplususa.com"
+        ]
+    },
+    {
+        "name": "Cleary Building",
+        "yelp_url": "https://www.yelp.com/biz/cleary-building-verona?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Verona",
+        "phone": "+16088459700",
+        "website": "clearybuilding.com",
+        "email": [
+            "sales@clearybuilding.com"
+        ]
+    },
+    {
+        "name": "Kettle Moraine Heating & Air Conditioning",
+        "yelp_url": "https://www.yelp.com/biz/kettle-moraine-heating-and-air-conditioning-delafield-4?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Delafield",
+        "phone": "+12623929400",
+        "website": "kettlemoraineheating.com",
+        "email": [
+            "info@kmheat.com"
+        ]
+    },
+    {
+        "name": "Patriot Properties",
+        "yelp_url": "https://www.yelp.com/biz/patriot-properties-waunakee-3?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waunakee",
+        "phone": "+16088496500",
+        "website": "patriotpropertieswisconsin.com",
+        "email": [
+            "patriotpropertiesleasing@gmail.com"
+        ]
+    },
+    {
+        "name": "C Braaksma Electric",
+        "yelp_url": "https://www.yelp.com/biz/c-braaksma-electric-waupun-12?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waupun",
+        "phone": "+19203191614",
+        "website": "cbelectric.net",
+        "email": [
+            "cbelectric@me.com"
+        ]
+    },
+    {
+        "name": "Elect-Tech",
+        "yelp_url": "https://www.yelp.com/biz/elect-tech-waukesha-3?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Waukesha",
+        "phone": "+12624463122",
+        "website": "elect-techinc.com",
+        "email": [
+            "contact@elect-techinc.com"
+        ]
+    },
+    {
+        "name": "Ethos Electric",
+        "yelp_url": "https://www.yelp.com/biz/ethos-electric-dousman?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Dousman",
+        "phone": "+12626460937",
+        "website": "ethoselectricwi.com",
+        "email": [
+            "Michael@ethoselectricwi.com"
+        ]
+    },
+    {
+        "name": "Wall To Wall Home Inspection Services",
+        "yelp_url": "https://www.yelp.com/biz/wall-to-wall-home-inspection-services-milwaukee-2?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Milwaukee",
+        "phone": "+14143336325",
+        "website": "walltowallhomeinspections.com",
+        "email": [
+            "al@walltowallpro.com"
+        ]
+    },
+    {
+        "name": "Signature Homes By Adashun Jones",
+        "yelp_url": "https://www.yelp.com/biz/signature-homes-by-adashun-jones-fond-du-lac-3?adjust_creative=JLLA2lyDuL0kW-S7iYIymA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JLLA2lyDuL0kW-S7iYIymA",
+        "city": "Fond Du Lac",
+        "phone": "+19209269933",
+        "website": "signaturehomesaj.com",
+        "email": [
+            "signaturehomes@adashunjones.com"
+        ]
+    }
+]
