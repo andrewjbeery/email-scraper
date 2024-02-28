@@ -101,13 +101,9 @@ file_path = 'data/yelp_results_' + location_city + '.json'
 # Open the file in write mode
 with open(file_path, 'w') as file:
     # Use the json.dump() function to write the data to the file
-    json.dump(data, file)
+    json.dump(results, file)
 
 print(f'Data saved to {file_path}')
-
-# Parse the JSON data into a list of dictionaries
-with open("data/yelp_results_" + location_city + ".json", 'r') as json_file:
-    results = json.load(json_file)
 
 
 filtered_results = []
@@ -190,34 +186,36 @@ def find_email(website_url):
             # print(f"No email addresses found on {url}")
             pass
     except requests.exceptions.HTTPError as e:
-        # print(f"HTTP error occurred: {e}")
-        pass
+        print(f"HTTP error occurred: {e}")
     except requests.exceptions.RequestException as e:
-        # print(f"An error occurred: {e}")
-        pass
+        print(f"An error occurred: {e}")
 
-
+counter = 0
 for company in filtered_results:
+    counter += 1
     website = company.get("website")
-    index = filtered_results.index(company)
     if website == None:
         print("No Website Found!")
     else:
         emails_found = find_email(website)
         if emails_found != None:
+            index = filtered_results.index(company)
             filtered_results[index]["email"] = emails_found
         else:
             emails_found = find_email(website + '/contact/')
             if emails_found != None:
+                index = filtered_results.index(company)
                 filtered_results[index]["email"] = emails_found
             else: 
                 emails_found = find_email(website + "/contact-us/")
                 if emails_found != None:
+                    index = filtered_results.index(company)
                     filtered_results[index]["email"] = emails_found
                 else:
                     print(f"No email found for {website}")
 
-    print("emails searched for" + str(index) + "/" + str(len(filtered_results)))
+
+    print("emails searched for" + str(counter) + "/" + str(len(filtered_results)))
 
 
 # Define the file path
