@@ -4,7 +4,8 @@ import re
 import json
 import csv
 import os
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
+API_KEY = 'sUz0MAX3HClTUZ96lOJBvHkTNwex_TgrNrP8HUaWl9YMhYrmZSldGy-CqzIxKvLQENLZG8351RWiLVjBCUHb2AA0fUx615lOwGFNB68q3WZkLRP9FFP3NOMTLNjfZXYx'
 
 def find_url(yelp_url):
 
@@ -34,10 +35,10 @@ def find_url(yelp_url):
         print(f'Error: {response.status_code}')
 
 
-load_dotenv()
+# load_dotenv()
 
 # Retrieve API key
-API_KEY = os.getenv("API_KEY")
+# API_KEY = os.getenv("API_KEY")
 
 # Define the search parameters
 # term = 'General contractors'
@@ -132,6 +133,13 @@ for result in results:
         pass
     location_dict["website"] = find_url(result["url"])
     location_dict["email"] = ""
+    if len(filtered_results) % 50 == 0:
+        with open(file_path, 'w') as file:
+        # Use the json.dump() function to write the data to the file
+            json.dump(filtered_results, file)
+        print("Results Saved!")
+    else:
+        pass
 
     filtered_results.append(location_dict)
     print(str(len(filtered_results)) + "/" + str(len(results)))
