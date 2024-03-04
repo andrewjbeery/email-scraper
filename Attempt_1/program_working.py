@@ -4,8 +4,12 @@ import re
 import json
 import csv
 import os
-# from dotenv import load_dotenv
-API_KEY = 'sUz0MAX3HClTUZ96lOJBvHkTNwex_TgrNrP8HUaWl9YMhYrmZSldGy-CqzIxKvLQENLZG8351RWiLVjBCUHb2AA0fUx615lOwGFNB68q3WZkLRP9FFP3NOMTLNjfZXYx'
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# Access the API key from the environment variables
+API_KEY = os.getenv("API_KEY")
 
 def find_url(yelp_url):
 
