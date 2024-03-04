@@ -97,7 +97,7 @@ for page in range(num_pages):
 
 
 # Define the file path
-file_path = 'data/yelp_results_' + location_city + '.json'
+file_path = 'data/yelp_results_' + location_city + "_" + term + '.json'
 
 # Open the file in write mode
 with open(file_path, 'w') as file:
@@ -263,7 +263,7 @@ for company in ready_for_csv:
 fieldnames = ready_for_csv[0].keys()
 
 # Specify the name of the CSV file
-filename = 'final_output_' + location_city + '.csv'
+filename = 'final_output_' + location_city + "_" + term + '.csv'
 
 # Open the CSV file in write mode
 with open(filename, mode='w', newline='') as file:
